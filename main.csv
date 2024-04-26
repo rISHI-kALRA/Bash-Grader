@@ -1,0 +1,211 @@
+Roll_Number,Name,endsem,quiz2,safe,total
+1001,Emily Johnson,a,a,85,85
+1002,James Smith,a,a,78,78
+1003,Sophia Brown,a,a,92,92
+1004,Ethan Martinez,a,a,80,80
+1005,Olivia Wilson,a,a,88,88
+1006,Benjamin Garcia,a,a,75,75
+1007,Emma Lee,a,a,91,91
+1008,Noah Taylor,a,a,82,82
+1009,Ava Anderson,a,a,89,89
+1010,William Rodriguez,a,a,93,93
+1011,Isabella Martinez,a,a,85,85
+1012,Jacob Brown,a,a,78,78
+1013,Mia Johnson,a,a,92,92
+1014,Alexander Garcia,a,a,80,80
+1015,Sophia Lee,a,a,88,88
+1016,Emily Wilson,a,a,75,75
+1017,Michael Taylor,a,a,91,91
+1018,Olivia Anderson,a,a,82,82
+1019,Ethan Rodriguez,a,a,89,89
+1020,Ava Brown,a,a,93,93
+1021,Jacob Johnson,a,a,85,85
+1022,Emma Garcia,a,a,78,78
+1023,William Lee,a,a,92,92
+1024,Isabella Wilson,a,a,80,80
+1025,Alexander Taylor,a,a,77,77
+1026,Charlotte Martinez,a,a,84,84
+1027,Liam Brown,a,a,90,90
+1028,Amelia Johnson,a,a,87,87
+1029,Daniel Garcia,a,a,82,82
+1030,Abigail Lee,a,a,95,95
+1031,Mason Taylor,a,a,79,79
+1032,Harper Anderson,a,a,88,88
+1033,Elijah Rodriguez,a,a,91,91
+1034,Elizabeth Brown,a,a,83,83
+1035,Logan Wilson,a,a,76,76
+1036,Avery Lee,a,a,94,94
+1037,Oliver Johnson,a,a,86,86
+1038,Ella Garcia,a,a,89,89
+1039,Aaron Smith,a,a,81,81
+1040,Sofia Taylor,a,a,90,90
+1041,Lucas Anderson,a,a,77,77
+1042,Lily Martinez,a,a,92,92
+1043,Aiden Brown,a,a,85,85
+1044,Layla Johnson,a,a,78,78
+1045,Jack Wilson,a,a,93,93
+1046,Zoe Smith,a,a,89,89
+1047,Michaela Taylor,a,a,84,84
+1048,Jackson Anderson,a,a,91,91
+1049,Alyssa Brown,a,a,88,88
+1050,Lincoln Garcia,a,a,76,76
+1051,Eva Lee,a,a,94,94
+1052,Matthew Johnson,a,a,79,79
+1053,Grace Rodriguez,a,a,87,87
+1054,Nicholas Brown,a,a,82,82
+1055,Chloe Wilson,a,a,96,96
+1056,Jonathan Taylor,a,a,88,88
+1057,Addison Anderson,a,a,85,85
+1058,David Martinez,a,a,77,77
+1059,Hannah Smith,a,a,90,90
+1060,Christopher Taylor,a,a,83,83
+1061,Scarlett Lee,a,a,92,92
+1062,Andrew Anderson,a,a,86,86
+1063,Madison Brown,a,a,95,95
+1064,Brayden Johnson,a,a,79,79
+1065,Katherine Garcia,a,a,84,84
+1066,Gabriel Wilson,a,a,91,91
+1067,Victoria Smith,a,a,88,88
+1068,John Taylor,a,a,75,75
+1069,Peyton Lee,a,a,93,93
+1070,Dylan Brown,a,a,89,89
+1071,Natalie Johnson,a,a,86,86
+1072,Colton Garcia,a,a,90,90
+1073,Leah Wilson,a,a,94,94
+1074,Brandon Smith,a,a,82,82
+1075,Mackenzie Taylor,a,a,87,87
+1076,Brooklyn Anderson,a,a,81,81
+1077,Connor Martinez,a,a,96,96
+1078,Riley Brown,a,a,88,88
+1079,Samantha Johnson,a,a,84,84
+1080,Landon Garcia,a,a,93,93
+22B1003,Saksham Rathi,a,21,a,21
+23B0069,Sunny,a,29,a,29
+23B0101,JohnSmith,85,a,a,85
+23B0102,EmilyJohnson,78,a,a,78
+23B0103,MichaelWilliams,92,a,a,92
+23B0104,JessicaBrown,67,a,a,67
+23B0105,DanielMiller,88,a,a,88
+23B0106,SarahDavis,73,a,a,73
+23B0107,DavidWilson,95,a,a,95
+23B0108,JenniferTaylor,81,a,a,81
+23B0109,ChristopherMartinez,79,a,a,79
+23B0110,AmandaAnderson,90,a,a,90
+23B0111,MatthewThomas,72,a,a,72
+23B0112,AshleyJackson,84,a,a,84
+23B0113,JamesWhite,87,a,a,87
+23B0114,ElizabethHarris,68,a,a,68
+23B0115,JoshuaMartin,91,a,a,91
+23B0116,LaurenThompson,76,a,a,76
+23B0117,AndrewGarcia,82,a,a,82
+23B0118,SamanthaMartinez,77,a,a,77
+23B0119,NicholasRobinson,89,a,a,89
+23B0120,MeganLewis,70,a,a,70
+23B0121,RyanLee,83,a,a,83
+23B0122,TaylorWalker,75,a,a,75
+23B0123,BrandonHall,93,a,a,93
+23B0124,KimberlyRodriguez,80,a,a,80
+23B0125,WilliamLopez,74,a,a,74
+23B0126,NicoleHill,86,a,a,86
+23B0127,JosephYoung,69,a,a,69
+23B0128,HaleyAllen,94,a,a,94
+23B0129,KevinScott,71,a,a,71
+23B0130,OliviaKing,96,a,a,96
+23B0131,BenjaminGreen,65,a,a,65
+23B0132,VictoriaBaker,97,a,a,97
+23B0133,SamuelPerez,66,a,a,66
+23B0134,NatalieCook,98,a,a,98
+23B0135,AlexanderBrooks,63,a,a,63
+23B0136,DanielleReed,99,a,a,99
+23B0137,EricRivera,64,a,a,64
+23B0138,RachelMitchell,100,a,a,100
+23B0139,TylerCarter,62,a,a,62
+23B0140,MichelleMorris,101,a,a,101
+23B0141,JasonPerry,61,a,a,61
+23B0142,HannahEvans,102,a,a,102
+23B0143,PatrickNelson,60,a,a,60
+23B0144,KelseyBennett,103,a,a,103
+23B0145,JustinMurphy,59,a,a,59
+23B0146,LindseyMorgan,104,a,a,104
+23B0147,AustinCooper,58,a,a,58
+23B0148,ChelseaRamirez,105,a,a,105
+23B0149,DylanPowell,57,a,a,57
+23B0150,MadisonKelly,106,a,a,106
+23B0151,JordanTorres,56,a,a,56
+23B0152,ErinWood,107,a,a,107
+23B0153,KyleRichardson,55,a,a,55
+23B0154,AmberWard,108,a,a,108
+23B0155,GregoryFlores,54,a,a,54
+23B0156,KaylaHoward,109,a,a,109
+23B0157,SethLong,53,a,a,53
+23B0158,AlexisSanchez,110,a,a,110
+23B0159,IanDiaz,52,a,a,52
+23B0160,SavannahBarnes,111,a,a,111
+23B0161,JuanCollins,51,a,a,51
+23B0162,AngelaBennett,112,a,a,112
+23B0163,RonaldRivera,50,a,a,50
+23B0164,TaraGray,113,a,a,113
+23B0165,RandyWard,49,a,a,49
+23B0166,CatherineReed,114,a,a,114
+23B0167,JesseCox,48,a,a,48
+23B0168,MonicaRoss,115,a,a,115
+23B0169,MarcusPrice,47,a,a,47
+23B0170,LauraGriffin,116,a,a,116
+23B0171,DerrickBell,46,a,a,46
+23B0172,BrendaWatson,117,a,a,117
+23B0173,VictorBrooks,45,a,a,45
+23B0174,AprilButler,118,a,a,118
+23B0175,PhillipColeman,44,a,a,44
+23B0176,CassandraBarnes,119,a,a,119
+23B0177,ToddPowell,43,a,a,43
+23B0178,ChristineJenkins,120,a,a,120
+23B0179,RaymondMurphy,42,a,a,42
+23B0180,DianaPatterson,121,a,a,121
+23B0181,AudreyFoster,122,a,a,122
+23B0182,BryanReed,123,a,a,123
+23B0183,GraceColeman,124,a,a,124
+23B0184,JeremyHayes,125,a,a,125
+23B0185,KellyWashington,126,a,a,126
+23B0186,TimothySimmons,127,a,a,127
+23B0187,PamelaHughes,128,a,a,128
+23B0188,MartinPrice,129,a,a,129
+23B0189,CherylRivera,130,a,a,130
+23B0190,GregoryJenkins,131,a,a,131
+23B0191,LauraPatterson,132,a,a,132
+23B0192,RogerSanchez,133,a,a,133
+23B0193,ShannonDiaz,134,a,a,134
+23B0194,CynthiaCarter,135,a,a,135
+23B0195,KeithThompson,136,a,a,136
+23B0196,BrittanyBell,137,a,a,137
+23B0197,AlanWard,120,a,a,120
+23B0198,ChristineMartinez,139,a,a,139
+23B0199,PhilipNelson,140,a,a,140
+23B0200,MonicaBaker,141,a,a,141
+23B0201,RussellMitchell,142,a,a,142
+23B0202,JuliaHill,143,a,a,143
+23B0203,RaymondFlores,144,a,a,144
+23B0204,ValerieYoung,145,a,a,145
+23B0205,HarryWhite,146,a,a,146
+23B0206,TheresaCooper,147,a,a,147
+23B0207,RandyPerry,148,a,a,148
+23B0208,KathleenTorres,149,a,a,149
+23B0209,NathanLee,150,a,a,150
+23B0210,DeniseJohnson,151,a,a,151
+23B0211,EdwardGarcia,152,a,a,152
+23B0212,JanetMorris,153,a,a,153
+23B0213,CarlLewis,154,a,a,154
+23B0214,GailMartin,155,a,a,155
+23B0215,FrankHarris,156,a,a,156
+23B0216,MarthaScott,157,a,a,157
+23B0217,JohnnyKing,158,a,a,158
+23B0218,DebraAnderson,159,a,a,159
+23B0219,VincentThomas,160,a,a,160
+23B0220,MargaretJackson,161,a,a,161
+23B0221,BruceBrown,162,a,a,162
+23B0222,PaulaMartinez,163,a,a,163
+23B0223,WayneAllen,164,a,a,164
+23B0224,JaniceRodriguez,165,a,a,165
+23B0225,ToddHill,166,a,a,166
+23B0226,LillianYoung,167,a,a,167
+23B0934,Yash,a,9,a,9
+23B0953, Aakash Gupta,a,0,90,90

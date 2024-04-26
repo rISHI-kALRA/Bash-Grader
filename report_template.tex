@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage[rightcaption]{sidecap}
+\usepackage{verbatim}
+\usepackage{background}
+
+\backgroundsetup{
+  scale=1,
+  opacity=0.5,
+  angle=0,
+  contents={%
+    \includegraphics[width=1\paperwidth,height=0.5\paperheight,keepaspectratio]{IITB_logo.png} % Example image, replace with your image path
+  },
+  position=current page.center
+}
+\usepackage [ a4paper , hmargin =1 in , bottom =1.5 in ] { geometry }
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{Page \thepage}
+\lhead{Indian Institute of Technology Bombay \includegraphics[width=0.025\textwidth]{IITB_logo.png}}
+\rhead{rolno}
+
+\newcommand\NextYear{%
+  \advance\year by 1 \the\year\advance\year by -1}
+
+\begin{document}
+    \begin{center}
+        \begin{huge}
+            \textbf {INDIAN INSTITUTE OF TECHNOLOGY BOMBAY}
+
+            Report Card for Session \the \year -\NextYear
+
+        \end{huge}
+    \end{center}
+    \begin{Large}
+        \begin{center}
+            Student Name - \underline{name} \hspace{1cm} Roll Number - \underline{rolno}\\
+        \end{center}
+    \begin{center}
+    \begin{tabular}[center , width=\pagewidth]{|c|c|c|}
+        \hline
+        Examination & Marks & Percentile \\ \hline
+    \end{tabular}
+    \end{center}
+    \end{Large}
+    \begin{center}
+        % \includegraphics{"Percentile of rolno.png"}
+    \end{center}
+    
+\end{document}
